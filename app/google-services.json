@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "316216667945",
+    "firebase_url": "https://vandoo-6e74c.firebaseio.com",
+    "project_id": "vandoo-6e74c",
+    "storage_bucket": "vandoo-6e74c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316216667945:android:db5bae9c10dd3b13",
+        "android_client_info": {
+          "package_name": "com.vandoo.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316216667945-kpjtpbe55oitp7qru09eug6b2h1fq42e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEApKwXTdD12LOFTm4A2Ujv79dSuKR_j8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
